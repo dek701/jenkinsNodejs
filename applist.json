@@ -2,7 +2,7 @@
   "apps" : [
       {
         "name"      : "publish",
-        "script"    : "/var/nodejs/nodejsPublish/app.js",
+        "script"    : "/data/test/app.js",
         "env_production" : {
           "NODE_ENV": "production"
         }
